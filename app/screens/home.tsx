@@ -48,7 +48,7 @@ export function Card({
 
 export function Home({ }: HomeProps) {
   return (
-    <div className="space-y-6 animate-fade-in w-full h-screen flex flex-1 justify-center items-center bg-red-400 fixed right-0 top-0 p-4">
+    <div className="space-y-6 animate-fade-in w-full h-screen flex flex-1 justify-center items-center bg-red-00 fixed right-0 top-0 p-4">
 
       <Card title="" className="bg-green-300 h-40 w-full">
         {/* <p className="text-[var(--app-foreground-muted)] mb-4">
